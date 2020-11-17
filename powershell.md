@@ -8,8 +8,8 @@ Commandes :
 
 - Se déplacer dans les dossiers : 
     - Set-Location ***dossier*** 
-    - cd 
-    - chdir
+    - cd ***dossier*** 
+    - chdir ***dossier*** 
 
 - Afficher le contenu d'un dossier :
     - Get-ChildItem 
