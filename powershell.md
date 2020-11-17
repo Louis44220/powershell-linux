@@ -25,8 +25,7 @@ Commandes :
 - Copier un fichier : 
     - Copy-Item ***nom du fichier*** -Destination ***nom du fichier2***
 - Déplacer un fichier : 
-    - Move-Item ***'nom du fichier'*** -Destination ***'chemin\nom du fichier'***
-
+    - Move-Item ***nom du fichier*** -Destination ***chemin\nom du fichier***
 
 ## Alias
 
