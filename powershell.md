@@ -13,17 +13,17 @@ Commandes :
 - Afficher le contenu d'un dossier courant : 
     - Get-Location
 - Créer un dossier :
-    - New-Item ***'nom du fichier'*** -ItemType Directory 
+    - New-Item ***nom du fichier*** -ItemType Directory 
 - Créer un fichier :
-    - New-Item ***'nom du fichier'***
+    - New-Item ***nom du fichier***
 - Supprimer un dossier : 
-    - Remove-Item ***'nom du fichier'***
+    - Remove-Item ***nom du fichier***
 - Supprimer un fichier/dossier : 
-    - Remove-Item ***'nom du fichier'***
+    - Remove-Item ***nom du fichier***
 - Renommer un fichier : 
-    - Rename-Item ***'nom du fichier'*** -NewName ***'nom du fichier2'*** 
+    - Rename-Item ***nom du fichier*** -NewName ***nom du fichier2*** 
 - Copier un fichier : 
-    - Copy-Item ***'nom du fichier'*** -Destination ***'nom du fichier2'***
+    - Copy-Item ***nom du fichier*** -Destination ***nom du fichier2***
 - Déplacer un fichier : 
     - Move-Item ***'nom du fichier'*** -Destination ***'chemin\nom du fichier'***
 
@@ -31,4 +31,4 @@ Commandes :
 ## Alias
 
 - Créer ses propres raccourci : 
-    - Set-Alias -Name **'c'** -Value **'clear'** 
+    - Set-Alias -Name **c** -Value **clear** 
