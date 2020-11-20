@@ -14,7 +14,7 @@ Commandes :
 - Afficher le contenu d'un dossier :
     - Get-ChildItem 
     - ls
-    - ![](images/gitchilitem.jpg)
+    - ![](A.jpg)
   
 - Afficher le contenu d'un dossier courant : 
     - Get-Location 
