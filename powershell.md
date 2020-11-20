@@ -6,22 +6,26 @@
 
 Commandes : 
 
+- Afficher le contenu d'un dossier courant : 
+    - Get-Location 
+    - pwd 
+    ![](ressources/2.jpg) 
+
+- Afficher le contenu d'un dossier :
+    - Get-ChildItem (+ détaillé)
+    - ls
+    ![](ressources/1.jpg)
+
+- Créer un dossier :
+    - New-Item ***nom du fichier*** -ItemType Directory 
+  ![](ressources/3.jpg)
+  ![](ressources/4.jpg)
+  **On voit bien que le dossier à été créer** 
+
 - Se déplacer dans les dossiers : 
     - Set-Location ***dossier*** 
     - cd ***dossier*** 
     - chdir ***dossier*** 
-
-- Afficher le contenu d'un dossier :
-    - Get-ChildItem 
-    - ls
-    - ![](A.jpg)
-  
-- Afficher le contenu d'un dossier courant : 
-    - Get-Location 
-    - pwd 
-
-- Créer un dossier :
-    - New-Item ***nom du fichier*** -ItemType Directory 
 
 - Créer un fichier :
     - New-Item ***nom du fichier*** 
