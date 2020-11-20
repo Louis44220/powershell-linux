@@ -2,6 +2,7 @@
 
 - Afficher tout les reccorcis déja disponible : 
     - Get-Alias
+    
     ![](ressources/A.jpg) 
     
     Cette commande nous permet de nous afficher tout les raccourcis déja créer par Powershell. Ici une petite partie de ce qui est disponible.
