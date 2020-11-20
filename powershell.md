@@ -13,7 +13,8 @@ Commandes :
 
 - Afficher le contenu d'un dossier :
     - Get-ChildItem 
-
+    - ls
+  
 - Afficher le contenu d'un dossier courant : 
     - Get-Location 
     - pwd 
@@ -42,6 +43,8 @@ Commandes :
     - Move-Item ***nom du fichier*** -Destination ***chemin\nom du fichier*** 
     - move ***nom du fichier***
 
+- Tester l’existence d’un fichier ou dossier : 
+    - Test-Path ***chemin/nomFichier.txt***
 ## Alias
 
 - Afficher tout les Alias disponible : 
