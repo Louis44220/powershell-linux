@@ -14,7 +14,7 @@ Commandes :
 - Afficher le contenu d'un dossier :
     - Get-ChildItem 
     - ls
-    - 'https://github.com/matheoleger/Cours-de-Linux/blob/main/Ressources/get-childitem.jpg'
+    - !(https://github.com/matheoleger/Cours-de-Linux/blob/main/Ressources/get-childitem.jpg)
   
 - Afficher le contenu d'un dossier courant : 
     - Get-Location 
