@@ -14,6 +14,7 @@ Commandes :
 - Afficher le contenu d'un dossier :
     - Get-ChildItem 
     - ls
+    - ![](Capture.png)
   
 - Afficher le contenu d'un dossier courant : 
     - Get-Location 
