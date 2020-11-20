@@ -14,7 +14,6 @@ Commandes :
 - Afficher le contenu d'un dossier :
     - Get-ChildItem 
     - ls
-    - ![](file:///C:/Users/louis/OneDrive/Images/Capture.PNG)
   
 - Afficher le contenu d'un dossier courant : 
     - Get-Location 
@@ -46,10 +45,3 @@ Commandes :
 
 - Tester l’existence d’un fichier ou dossier : 
     - Test-Path ***chemin/nomFichier.txt***
-## Alias
-
-- Afficher tout les Alias disponible : 
-    - Get-Alias
-
-- Créer ses propres raccourci : 
-    - Set-Alias -Name **c** -Value **clear** 
