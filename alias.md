@@ -9,7 +9,7 @@
 
 - Créer ses propres raccourci : 
     - Set-Alias -Name **c** -Value **clear** 
-    
+        - Exemple, la commande suivante permet de créer l'alias c vers la commande Clear :
     ![](ressources/B.jpg) 
     
     ![](ressources/C.jpg)
