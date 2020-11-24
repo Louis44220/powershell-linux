@@ -86,4 +86,4 @@ Commandes :
 - Tester l’existence d’un fichier ou dossier : 
     - Test-Path ***chemin/nomFichier.txt***
    
-    ![](ressources/L.jpg)
+        ![](ressources/L.jpg)
