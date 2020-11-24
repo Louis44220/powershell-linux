@@ -10,13 +10,13 @@ Commandes :
     - Get-Location 
     - pwd 
     
-![](ressources/2.jpg) 
+    ![](ressources/2.jpg) 
 
 - Afficher le contenu d'un dossier :
     - Get-ChildItem (+ détaillé)
     - ls
     
-![](ressources/1.jpg)
+    ![](ressources/1.jpg)
 
 - Créer un dossier :
     - New-Item ***nom du fichier*** -ItemType Directory 
