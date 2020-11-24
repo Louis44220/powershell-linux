@@ -10,16 +10,17 @@ Commandes :
     - Get-Location 
     - pwd 
     
-    ![](ressources/2.jpg) 
+![](ressources/2.jpg) 
 
 - Afficher le contenu d'un dossier :
     - Get-ChildItem (+ détaillé)
     - ls
     
-    ![](ressources/1.jpg)
+![](ressources/1.jpg)
 
 - Créer un dossier :
     - New-Item ***nom du fichier*** -ItemType Directory 
+  
   ![](ressources/3.jpg)
   ![](ressources/4.jpg)
   
@@ -29,6 +30,7 @@ Commandes :
     - Set-Location ***dossier*** 
     - cd ***dossier*** 
     - chdir ***dossier*** 
+    
     ![](ressources/E.jpg)
 
     **Avec cette commande on se retrouve dans le dossier que l'on veut** 
@@ -36,6 +38,7 @@ Commandes :
 - Créer un fichier :
     - New-Item ***nom du fichier*** 
     - ni ***nom du fichier***
+    
     ![](ressources/F.jpg)
     ![](ressources/F2.jpg)
 
@@ -46,6 +49,7 @@ Commandes :
     - del ***nom du fichier*** 
     - erase ***nom du fichier*** 
     - ri ***nom du fichier***
+    
     ![](ressources/G.jpg)
 
     **Le fichier ***test2*** à bien été supprimé**
@@ -63,6 +67,7 @@ Commandes :
 
 - Copier un fichier : 
     - Copy-Item ***nom du fichier*** -Destination ***nom du fichier2***
+    
     ![](ressources/I.jpg)
     ![](ressources/I2.jpg)
 
@@ -72,6 +77,7 @@ Commandes :
   - Déplacer un fichier : 
     - Move-Item ***nom du fichier*** -Destination ***chemin\nom du fichier*** 
     - move ***nom du fichier***
+    
     ![](ressources/J.jpg)
     ![](ressources/K.jpg)
 
