@@ -4,7 +4,7 @@
 
   1. [Histoire de Powershell](histoire.md)
   2. [A quoi sert Powershell](powershell.md)
-  3. [Installations]()
+  3. [Installations](install.md)
   4. [Aide commandes](aide.md)
   5. [Gérer les fichiers et dossiers](commandes.md)
   6. [Alias](alias.md)
