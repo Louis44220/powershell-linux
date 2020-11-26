@@ -3,7 +3,7 @@
 ## Commmandes pour obtenir de l'aide 
 
 - Afficher de l'aide sur une commande : 
-      - Get-Help **Commande**
+    - Get-Help **Commande**
     exemple : 
     
     ![](ressources/M.jpg)
@@ -12,7 +12,7 @@
 Lorsque l'on tape cette commande on nous affiche 3 choses : la **syntaxe** à utiliser, les **alias** (raccourcis) disponibles et des **remarques** sur la commande. 
 
 - Afficher les exemples : 
-      - Get-Help **Commande**-Examples
+    - Get-Help **Commande**-Examples
     exemple : 
 
     ![](ressources/N.jpg)
