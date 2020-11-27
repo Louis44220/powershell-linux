@@ -4,6 +4,7 @@
   - $NomVariable = 'Hello'
   
 ![](ressources/Variables.jpg)
+
 ![](ressources/testvariables.jpg)
 
 
@@ -30,4 +31,5 @@ Dans PowerShell, le Pipeline permet de connecter deux commandes. La sortie d'une
   - Get- Service | Where-Object { $_.Status -eq "Running" }
 
 ![](ressources/pipe.jpg)
+
 ![](ressources/pipe2.jpg)
