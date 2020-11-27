@@ -21,6 +21,7 @@ Remarque : pour savoir le type de la variable on peut taper la commande $NomVari
   - $NomVariable = Get-Service 
 
 ![](ressources/cmddansunevariables.jpg)
+
 ![](ressources/cmd.jpg)
 
 ***
