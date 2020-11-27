@@ -9,7 +9,9 @@
   5. [Gérer les fichiers et dossiers](commandes.md)
   6. [Alias](alias.md)
   7. [Scripts]()
-  8. [Variables / Pipeline](variables.md)
+  8. Variables / Pipeline
+     1. [Variables](variables.md)
+     2. [Pipeline](pipeline.md)
  1.  [Conditions]()
  2.  [Boucles]()
  3.  [Sources](sources.md)
