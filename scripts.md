@@ -1,8 +1,8 @@
-## Scripts 
+# Scripts 
 ***
 Pour créer des scripts PowerShell on utilisera le logiciel Windows Powershell ISE 
 
-# Préparation à l'execution de scripts PowerShell : 
+## Préparation à l'execution de scripts PowerShell : 
     - Dans PowerShell, une politique restreint l'éxécution des scripts, on peut voir cette politique grâce a la commande **Get-ExecutionPolicy**
 
 ![](ressources/policy.jpg)
@@ -17,7 +17,7 @@ Dans ce cas, on est dans le "mode" **Unrestricted**. Tout les types de restricti
 Pour changer de restriction, il suffit de taper la commande **Set-ExectutionPolicy** ***TypeRestriction***
 
 
-# Cmdlets 
+## Cmdlets 
 
 - Un cmdlet est une commande PowerShell qui a une fonction prédéfinie. 
 
