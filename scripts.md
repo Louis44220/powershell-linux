@@ -30,20 +30,24 @@ Pour changer de restriction, il suffit de taper la commande **Set-ExectutionPoli
 
 Par exemple, pour afficher tout les protocoles en cours d'execution on peut taper **Get-Process** 
 
-    ![](ressources/process.jpg)
+![](ressources/process.jpg)
 
 Pour voir tout les **cmdlets** disponible on tape Get-Help Category : 
 
-Exemple : ![](ressources/get-help.jpg)
+Exemple : 
+
+![](ressources/get-help.jpg)
 
 ## Premier script
 
 Voici un exemple de premier script : 
-    ![](ressources/script1.jpg)
+    
+![](ressources/script1.jpg)
 
 La première chose de ce script est de déclarer une variable ici **$test**. Cette variable va nous sortir tout les services ou "l'objet" (ici le status) est en fonctionnement ("Running"). 
 
 Pour l'executer on doit, aller sur le fichier et cliquer sur **Executer avec Powershell**.
 
 Le programme va alors s'executer dans PowerShell. 
-    ![](ressources/pwsh.jpg)
+    
+![](ressources/pwsh.jpg)
