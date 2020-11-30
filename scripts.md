@@ -1,5 +1,6 @@
 ## Scripts 
 ***
+Pour créer des scripts PowerShell on utilisera le logiciel Windows Powershell ISE 
 
 # Préparation à l'execution de scripts PowerShell : 
     - Dans PowerShell, une politique restreint l'éxécution des scripts, on peut voir cette politique grâce a la commande **Get-ExecutionPolicy**
@@ -13,7 +14,7 @@ Dans ce cas, on est dans le "mode" **Unrestricted**. Tout les types de restricti
   - RemoteSigned — Vous pouvez exécuter vos propres scripts ou les scripts signés par un développeur de confiance.
   - Unrestricted — Vous pouvez exécuter tous les scripts que vous voulez.
 
-Pour changer de restriction, il suffit de taper la commande **Set-Exectution** ***TypeRestriction***
+Pour changer de restriction, il suffit de taper la commande **Set-ExectutionPolicy** ***TypeRestriction***
 
 
 # Cmdlets 
@@ -34,3 +35,15 @@ Par exemple, pour afficher tout les protocoles en cours d'execution on peut tape
 Pour voir tout les **cmdlets** disponible on tape Get-Help Category : 
 
 Exemple : ![](ressources/get-help.jpg)
+
+## Premier script
+
+Voici un exemple de premier script : 
+    ![](ressources/script1.jpg)
+
+La première chose de ce script est de déclarer une variable ici **$test**. Cette variable va nous sortir tout les services ou "l'objet" (ici le status) est en fonctionnement ("Running"). 
+
+Pour l'executer on doit, aller sur le fichier et cliquer sur **Executer avec Powershell**.
+
+Le programme va alors s'executer dans PowerShell. 
+    ![](ressources/pwsh.jpg)
