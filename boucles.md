@@ -1,10 +1,15 @@
 # Les boucles 
 
-- Il y'a 2 moyens de faire des boucles : 
+## For 
+
+## While
+
+## Foreach
+  - Il y'a 2 moyens de faire des boucles : 
   - En scrpit bloc
   - Avec le pipeline 
 
-## En script bloc 
+### En script bloc 
 
 Pour faire une boucle en script bloc on doit tout d'abord créer un collection de données. Une collection est un ensemble de valeurs. 
 
@@ -23,7 +28,7 @@ Cela va nous afficher :
 ![](ressources/bouclesfin.jpg)
 
 
-## Avec le pipeline 
+### Avec le pipeline 
 
 Dans ce cas la, la collection n'a pas besoin d'être déclarée car elle va directement être traitée et passée a la boucle au travers du pipeline. 
 
