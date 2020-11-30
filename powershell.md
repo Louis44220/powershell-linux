@@ -8,3 +8,12 @@ PowerShell est une infrastructure multiplateforme pour la gestion de la configur
 *** 
 
 ## A quoi sert-il ? 
+
+Au final PowerShell peut servir à beaucoup de choses différentes : 
+    Intéragir avec le système
+    Exectuer des commandes
+    Créer l'automatisation de tâches
+    Des scripts
+    Gérer des fichier ou des dossier
+    Gérer des permissions
+   
