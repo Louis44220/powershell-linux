@@ -20,3 +20,7 @@
     - $NomVariable = Get-Service 
 ![](ressources/cmddansunevariables.jpg)
 ![](ressources/cmd.jpg)
+
+*** 
+
+[Sommaire](README.md) / Précédent :[Alias](alias.md) / Suivant : [Pipeline](pipeline.md)
