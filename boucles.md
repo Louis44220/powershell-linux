@@ -19,6 +19,7 @@ En PowerShell, la boucle "For" s'appuie sur la syntaxe suivante :
 
 #### Exemple  
 Lorsque l'on utilise une boucle for: on indique une valeur de départ (état initial), une valeur "maximale" dans la condition de répétition et on incrémente la valeur à chaque tour de boucle (à chaque itération).
+
 ![](ressources/for.jpg) 
 ![](ressources/for2.jpg)
 
