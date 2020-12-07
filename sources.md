@@ -1,3 +1,10 @@
+# Sources 
+
+***
+
+Voici les sources que j'ai utilisés pour réaliser ce projet. 
+
+
 https://www.itpro.fr/historique-de-powershell/
 
 https://www.editions-eni.fr/open/mediabook.aspx?idR=821da42add19709a8c241c8bd3250c13
@@ -12,3 +19,5 @@ https://www.editions-eni.fr/open/mediabook.aspx?idR=12b9893601964d9b72f4a10c4dfb
 
 
 https://www.it-connect.fr/powershell-et-les-boucles-for-loop/
+
+https://docs.microsoft.com/fr-fr/powershell/scripting/learn/deep-dives/everything-about-if?view=powershell-7.1
