@@ -21,7 +21,7 @@ exemple :
 
 ![](ressources/N.jpg)
 
-    Idem que pour l'aide, la **syntaxe**, les **alias** et les **remarques** s'affichent.
+ Idem que pour l'aide, la **syntaxe**, les **alias** et les **remarques** s'affichent.
 
 
 ### Afficher la liste des méthodes et des propriétés des objets : 
