@@ -3,7 +3,7 @@
 Pour créer des scripts PowerShell on utilisera le logiciel Windows Powershell ISE 
 
 ## Préparation à l'execution de scripts PowerShell : 
-    - Dans PowerShell, une politique restreint l'éxécution des scripts, on peut voir cette politique grâce a la commande **Get-ExecutionPolicy**
+  - Dans PowerShell, une politique restreint l'éxécution des scripts, on peut voir cette politique grâce a la commande **Get-ExecutionPolicy**
 
 ![](ressources/policy.jpg)
 
