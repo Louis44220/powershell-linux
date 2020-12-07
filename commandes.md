@@ -82,3 +82,7 @@
     - Test-Path ***chemin/nomFichier.txt***
    
 ![](ressources/L.jpg)
+
+***
+
+[Sommaire](README.md) / Précédent :[Aide commandes](aide.md) / Suivant : [Alias](alias.md)
