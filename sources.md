@@ -7,3 +7,8 @@ https://www.ionos.fr/digitalguide/sites-internet/developpement-web/markdown/#:~:
 https://www.ionos.fr/digitalguide/serveur/know-how/windows-powershell/
 
 https://docs.microsoft.com/fr-fr/powershell/scripting/overview?view=powershell-7.1#:~:text=PowerShell%20est%20une%20infrastructure%20multiplateforme,d'un%20langage%20de%20script.
+
+https://www.editions-eni.fr/open/mediabook.aspx?idR=12b9893601964d9b72f4a10c4dfbefe4
+
+
+https://www.it-connect.fr/powershell-et-les-boucles-for-loop/
