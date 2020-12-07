@@ -86,3 +86,8 @@ Les deux méthodes sont différentes mais le résultat est identique.
 *** 
 
 Il existe aussi d'autre type de boucle comme les Do-until, Do-while,.... 
+
+
+*** 
+
+[Sommaire](README.md) / Précédent :[Conditions](conditions.md) / Suivant : [Scripts de gestion des comptes utilisateurs](TP/exo1.md)
