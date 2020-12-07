@@ -14,7 +14,7 @@ Voici un cours sur PowerShell, dans les grandes lignes, vous y trouverez une pr√
       1. [Variables](variables.md)
       2. [Pipeline](pipeline.md)
   7. [Scripts](scripts.md)
-      1. [Conditions]()
+      1. [Conditions](conditions.md)
       2. [Boucles](boucles.md)
   8. Travaux Pratiques
      1. [Scripts de gestion des comptes utilisateurs](TP/exo1.md)
