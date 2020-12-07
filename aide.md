@@ -28,3 +28,7 @@ exemple :
     - **Commande** | Get-member
     
 ![](ressources/O.jpg)
+
+***
+
+[Sommaire](README.md) / Précédent :[A quoi sert Powershell ?](powershell.md) / Suivant : [Gérer les fichiers et dossiers](commandes.md)
