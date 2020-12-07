@@ -6,3 +6,7 @@ Dans PowerShell, le Pipeline permet de connecter deux commandes. La sortie d'une
 
 ![](ressources/pipe.jpg)
 ![](ressources/pipe2.jpg)
+
+*** 
+
+[Sommaire](README.md) / Précédent :[Variables](variables.md) / Suivant : [Scripts](scripts.md)
