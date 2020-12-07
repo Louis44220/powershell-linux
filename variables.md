@@ -4,6 +4,7 @@
     - NomVariable = 'Hello'
 
 ![](ressources/Variables.jpg)
+
 ![](ressources/testvariables.jpg)
 
 
@@ -19,6 +20,7 @@
 #### Stocker le résultat d'une commande dans une variable : 
     - $NomVariable = Get-Service 
 ![](ressources/cmddansunevariables.jpg)
+
 ![](ressources/cmd.jpg)
 
 *** 
