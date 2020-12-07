@@ -52,3 +52,8 @@ Pour l'executer on doit, aller sur le fichier et cliquer sur **Executer avec Pow
 Le programme va alors s'executer dans PowerShell. 
     
 ![](ressources/pwsh.jpg)
+
+***
+
+
+[Sommaire](README.md) / Précédent :[Pipeline](pipeline.md) / Suivant : [Conditions](conditions.md)
