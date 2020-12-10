@@ -13,5 +13,9 @@ On voit que les commandes que l'on doit utiliser pour l'exercice sont :
     - Supprimer des utilisateurs : **Remove-LocalUser**
     - Voir utilisateurs :**Get-LocalUser**
     - Rechercher l'éxistence d'un utilisateur : **Get-LocalUser -Name**
+
 ![](images/Capture.jpg)
 
+Voici le résultat lorsqu'on éxécute le script : 
+
+![](images/Exo1.jpg)
