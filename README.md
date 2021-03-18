@@ -24,4 +24,4 @@ Voici un cours sur PowerShell, dans les grandes lignes, vous y trouverez une pr�
 Avis sur la méthode de travail : 
 
 J'ai trouvé ce travail assez intéressant car il m'a fait progresser en plusieurs points, que ce soit dans la montée de compétence au niveau de PowerShell ou sur la rédaction avec Markdown. Le fait de travailler en autonomie nous oblige à nous mettre au travail nous-mêmes et avoir notre propre méthode de travail, et je trouve cela plutôt intéressant.
-Pour résumé, je dirais que j'ai bien aimé faire ce travail et la méthode employée m'a bien convenue.
+Pour résumé, je dirais que j'ai bien aimé faire ce travail et la méthode employée m'a bien convenu.
